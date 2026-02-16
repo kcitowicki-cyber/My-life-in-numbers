@@ -7,4 +7,4 @@ print("imię:",name)
 print("wiek:",age)
 print("przeżyte miesiące",months)
 print("przeżyte dni",days)
-print("przeżyte godziny",hours
+print("przeżyte godziny",hours)
